@@ -19,6 +19,7 @@ contract_abi = {
 contract_addresses = {
     'optimism':'0x4200000000000000000000000000000000000042',
     'arbitrum':'0xC4ed0A9Ea70d5bCC69f748547650d32cC219D882',
+    'polygon':'0x7D1AfA7B718fb893dB30A3aBc0Cfc608AaCfeBB0',
 }
 
 
