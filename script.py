@@ -9,6 +9,7 @@ args = parser.parse_args()
 rpc_urls = {
     'optimism':'https://rpc.tornadoeth.cash/optimism',
     'arbitrum':'https://arbitrum.llamarpc.com',
+    'polygon':'https://rpc.ankr.com/polygon',
     'dymension':'https://dymension.liquify.com/json-rpc',
 }
 
